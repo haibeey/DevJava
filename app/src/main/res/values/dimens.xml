@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="large">30dp</dimen>
+    <dimen name="pad">10dp</dimen>
+    <dimen name="padL">50dp</dimen>
+</resources>
